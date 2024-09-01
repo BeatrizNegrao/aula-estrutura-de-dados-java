@@ -1,4 +1,4 @@
-// 3-Crie um método que receba como parâmetro um número binário na forma de um vetor com 8 posições e retorne esse número convertido para decimal.
+// 3) Crie um método que receba como parâmetro um número binário na forma de um vetor com 8 posições e retorne esse número convertido para decimal.
 public class EstruturaDados3 {
     public static void main(String[] args) {
         System.out.println("Binário:");
