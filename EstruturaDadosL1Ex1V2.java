@@ -1,5 +1,5 @@
 // 1.1) Crie um método que receba 1 vetor com 8 posições, inverta a ordem dos itens e retorne o vetor invertido.
-public class EstruturaDados1 {
+public class EstruturaDadosL1Ex1V2 {
     public static void main(String[] args) {
         int vetor[] = {1, 2, 3, 4, 5, 6, 7, 8};
         for (int i = 0; i < 8; i++) {
