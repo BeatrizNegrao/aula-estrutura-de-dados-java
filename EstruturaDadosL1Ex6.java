@@ -1,4 +1,5 @@
-/*6) Escreva um método para imprimir no console uma matriz de 2 dimensões. Utilize o seguinte padrão:
+// Aula 01 - Vetores e Matrizes 
+/* 6) Escreva um método para imprimir no console uma matriz de 2 dimensões. Utilize o seguinte padrão:
 |   X   |   X   |   X   |
 |   Y   |   Y   |   Y   |
 |   Z   |   Z   |   Z   |
