@@ -24,7 +24,7 @@ public class EstruturaDadosL1Ex3 {
         // Percorre o vetor do início ao fim
         for (int i = 0; i < 8; i++) {
             // Calcula o valor decimal
-            decimal += binario[i] * Math.pow(2, 7 - i); // Usando deslocamento de bits em vez de Math.pow
+            decimal += binario[i] * Math.pow(2, 7 - i); // Usando deslocamento de bits com Math.pow
         }
 
         return decimal; // Retorna o valor decimal
