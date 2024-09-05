@@ -1,5 +1,5 @@
-// Aula 01 - Vetores e Matrizes 
-// 3) Crie um método que receba como parâmetro um número binário na forma de um vetor com 8 posições e retorne esse número convertido para decimal.
+//Aula 01 - Vetores e Matrizes 
+//3) Crie um método que receba como parâmetro um número binário na forma de um vetor com 8 posições e retorne esse número convertido para decimal.
 public class EstruturaDadosL1Ex3 {
     public static void main(String[] args) {
         System.out.println("Binário:");

@@ -1,4 +1,4 @@
-// Aula 01 - Vetores e Matrizes 
+//Aula 01 - Vetores e Matrizes 
 //4) Crie um método que receba como parâmetro um número decimal, converta esse número para binário e retorne na forma de um vetor com 8 posições.
 public class EstruturaDadosL1Ex4 {
     public static void main(String[] args) {
