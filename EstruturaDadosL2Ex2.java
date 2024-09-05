@@ -1,4 +1,5 @@
- /*2) Crie um método recursivo que receba dois números inteiros como parâmetros, o primeiro será o número da base e o segundo a potência,
+// Aula 02 - Recursão
+/* 2) Crie um método recursivo que receba dois números inteiros como parâmetros, o primeiro será o número da base e o segundo a potência,
  e retorne o valor da função.*/
 public class EstruturaDadosL2Ex2 {
 
