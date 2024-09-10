@@ -1,3 +1,4 @@
+package Exercicios_aula2;
 //Aula 02 - Recursão
 //3) Um exemplo clássico de uma função matemática recursiva é o cálculo do fatorial de um número.
 public class EstruturaDadosL2Ex3 {

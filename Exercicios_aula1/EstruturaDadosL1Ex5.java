@@ -1,3 +1,4 @@
+package Exercicios_aula1;
 //Aula 01 - Vetores e Matrizes 
 /*5) Escreva um método que receba dois vetores de 5 números cada, 
 gere um terceiro vetor com os elementos dos outros dois vetores intercalados.*/

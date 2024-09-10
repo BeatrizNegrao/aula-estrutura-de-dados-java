@@ -1,3 +1,4 @@
+package Exercicios_aula1;
 //Aula 01 - Vetores e Matrizes 
 /*6) Escreva um método para imprimir no console uma matriz de 2 dimensões. Utilize o seguinte padrão:
 |   X   |   X   |   X   |
