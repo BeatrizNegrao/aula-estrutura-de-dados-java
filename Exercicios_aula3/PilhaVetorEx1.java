@@ -38,7 +38,7 @@ public class PilhaVetorEx1 {
 
     }
 
-    // Desempilha remove o item do topo da pilha e retorna o valor, OU SEJA, retira o objeto do topo da pilha. Se não estiver vazia.
+    // Desempilha remove o item do topo da pilha e retorna o valor, OU SEJA, retira o objeto do topo da pilha se não estiver vazia.
     public Object desempilhar() {
         if(!pilhaVazia()) { // Verifica se não está vazia 
             indice--; //Decrementa o índice

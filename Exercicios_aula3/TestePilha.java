@@ -2,7 +2,7 @@ package Exercicios_aula3;
 
 public class TestePilha {
     public static void main(String[] args) {
-        // **** Pilha com Vetor *****
+        // ****************** Pilha com Vetor ******************
         PilhaVetorEx1 minhaPilha = new PilhaVetorEx1(10);
         
         System.out.println();
