@@ -10,6 +10,13 @@ utilizando Listas ao invés de vetores para armazenar os dados.
 *.isEmpty(); que informa se a lista está vazia.
 *Obs:.Em Java todos os objetos derivam da Classe Object, portanto uma lista do tipo Object pode receber qualquer objeto.
 */
+/*Metodos Obrigatórios
+Empilhar(Obj elemento)
+Obj Desempilhar()
+Booaleano Pilha Vazia()
+Booaleano Pilha Cheia()
+*/
+
 import java.util.ArrayList;
 //Pilha implementada usando lista.
 public class PilhaEx2 {

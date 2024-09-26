@@ -10,6 +10,13 @@ construtor o tamanho do vetor.
 *Crie uma variável int com nome de topo para controlar o índice do topo da pilha.
 *Verifique se a pilha já está cheia antes de adicionar um novo item, e se está vazia antes de tentar remover.
 */
+/*Metodos Obrigatórios:
+Empilhar(Obj elemento)
+Obj Desempilhar()
+Booaleano Pilha Vazia()
+Booaleano Pilha Cheia()
+*/
+
 public class PilhaVetorEx1 {
     /*
      * Metodos Obrigatórios:
