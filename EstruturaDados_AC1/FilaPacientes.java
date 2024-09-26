@@ -9,14 +9,13 @@ import java.util.List;
 
         public void adicionar(Paciente item) {
 
-            if (fila.size() == 0 ) { 
-                fila.add(item); 
-    
+            if (fila.size() == 0 ) { // verifica se o tamanho da fila é igual a zero 
+                fila.add(item); // adiciona o item ao final da fila 
             } else { 
                 for (int i = 0; i < fila.size(); i++) { // Percorre do início ao fim da fila.
-                    if (fila.get(i).getPrioridade() > item.getPrioridade()) {  
-                        fila.add(i, item);
-                        sinaleiro = true; 
+                    if (fila.get(i).getPrioridade() > item.getPrioridade()) {
+                        fila.add(i, item); // Insere o item de maior prioridade antes do item de menor prioridade na posição 'i'.
+                        sinaleiro = true;  // Marca que o item de prioridade foi inserido.
                         break; // Encerra o loop for, pois já encontrou a posição correta.
                     }
                 }
