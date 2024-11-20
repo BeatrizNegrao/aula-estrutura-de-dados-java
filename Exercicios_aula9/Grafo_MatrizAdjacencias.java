@@ -206,5 +206,7 @@ class Grafo_MatrizAdjacencias {
         System.out.println(meuGrafo.buscaGulosa(0, 3));
         System.out.println(meuGrafo.buscaGulosa(0, 2));
         System.out.println(meuGrafo.buscaGulosa(0, 1));
+        System.out.println(meuGrafo.buscaGulosa(2, 1));
+
     }
 }

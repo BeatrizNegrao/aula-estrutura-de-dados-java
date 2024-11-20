@@ -15,8 +15,10 @@ public class testeArvoreBinaria {
 
             System.out.println("----------------Pré Ordem:---------------- ");
             minhaArvore.preOrdem();
+
             System.out.println("------------------Ordem:----------------");
             minhaArvore.Ordem();
+            
             System.out.println("------------------Pós Ordem----------------");
             minhaArvore.posOrdem();
        }

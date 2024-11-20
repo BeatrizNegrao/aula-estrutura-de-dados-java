@@ -4,11 +4,13 @@ public class NodeEx1 {
     private Object info; //Armazena as informações que serão atribuidas a lista
     private NodeEx1 proximoNo; // Aponta para o próximo nó
 
+    // Construtor
     public NodeEx1(Object info, NodeEx1 proximoNo) { 
         this.info = info;
         this.proximoNo = proximoNo;
     }
 
+    // Get e set 
     public Object getInfo() {
         return info;
     }
@@ -24,5 +26,4 @@ public class NodeEx1 {
     public void setProximoNo(NodeEx1 proximoNo) {
         this.proximoNo = proximoNo;
     }
-
 }

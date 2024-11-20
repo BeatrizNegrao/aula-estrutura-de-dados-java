@@ -25,8 +25,6 @@ public class TesteListaLigada {
         for(int i = 0; i < minhaLista.getTamanho(); i++){
             System.out.println(i + " - " + minhaLista.getLista(i));
         }
-
-        //-----------------------------------------//
     }
 }
 

@@ -1,7 +1,7 @@
 package Exercicios_aula8;
 
 public class nodeArvoreBinaria {
-    //O nó deverá possuir um campo info e dois ponteiros para nós
+    // O nó deverá possuir um campo info e dois ponteiros para nós
     private Object info;
     private nodeArvoreBinaria noEsquerda;
     private nodeArvoreBinaria noDireira;

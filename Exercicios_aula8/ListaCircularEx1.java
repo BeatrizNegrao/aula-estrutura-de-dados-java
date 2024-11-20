@@ -49,9 +49,9 @@ public class ListaCircularEx1 {
         }
     }
 
-    public void remover(Object info,int indice){
+    // public void remover(Object info,int indice){
 
-    }
+    // }
 
     private nodeListaCircularEx1 percorreLista(int indice) {
         nodeListaCircularEx1 aux;

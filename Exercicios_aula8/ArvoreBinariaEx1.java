@@ -84,7 +84,7 @@ public class ArvoreBinariaEx1 { // Devemos criar uma classe que permita adiciona
     }
 
 
-     //********** falta implementar o método percorrer arvore binária 
+     //**********falta implementar o método percorrer arvore binária********** 
     /*private nodeArvoreBinaria percorreArvore(int indice) {
     } */
 
@@ -100,4 +100,4 @@ public class ArvoreBinariaEx1 { // Devemos criar uma classe que permita adiciona
 }
 
 
-//implementar os métodos percorreArvore 
+//implementar o método percorreArvore 

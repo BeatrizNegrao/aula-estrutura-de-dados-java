@@ -1,16 +1,18 @@
 package Exercicios_aula7;
 
 public class NodeDuploEx1 {
-    private Object info;
-    private NodeDuploEx1 proximo;
-    private NodeDuploEx1 anterior;
+    private Object info; // atributo para armazenar a informação
+    private NodeDuploEx1 proximo; // atributo para o próximo nó
+    private NodeDuploEx1 anterior; // atributo para o nó anterior
 
+    //Construtor
     public NodeDuploEx1(Object info, NodeDuploEx1 proximo, NodeDuploEx1 anterior) {
         this.info = info;
         this.proximo = proximo;
         this.anterior = anterior;
     }
 
+    // Get e set 
     public Object getInfo() {
         return info;
     }

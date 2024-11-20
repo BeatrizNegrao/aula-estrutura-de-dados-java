@@ -5,12 +5,14 @@ public class nodeListaCircularEx1{
     private nodeListaCircularEx1 proximo;
     private nodeListaCircularEx1 anterior;
 
+    // Construtor 
     public nodeListaCircularEx1(Object info, nodeListaCircularEx1 proximo, nodeListaCircularEx1 anterior) {
         this.info = info;
         this.proximo = proximo;
         this.anterior = anterior;
     }
 
+    // Get e set
     public Object getInfo() {
         return info;
     }

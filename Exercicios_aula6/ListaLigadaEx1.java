@@ -98,7 +98,7 @@ public class ListaLigadaEx1 {
     }
 }
 
-//Observações importantes:
+// Observações importantes:
 /* Quando usar get e set:
  * getProxomoNo() (Getter):
  * Você usa o método getProxomoNo() quando deseja acessar o próximo nó ao qual o nó atual está apontando. É um método de leitura.

@@ -48,7 +48,6 @@ public class ListaDuplamenteLigadaEx1 {
         }else if(indice == tamanho -1){ // Se o índice for o último da lista
             adicionar(info); // Chama o método para adicionar o nó no final da lista
         }
-
     }
 
     public void remover(Object info, int indice){ // Removerá o nó definido pelo índice

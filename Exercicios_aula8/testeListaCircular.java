@@ -16,6 +16,5 @@ public class testeListaCircular {
         for(int i = 0; i < minhaLista.getTamanho(); i++){
             System.out.println(i + " - " + minhaLista.getListaCircular(i));
         }
-
     }
 }

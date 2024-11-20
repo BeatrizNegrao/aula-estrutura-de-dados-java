@@ -5,7 +5,7 @@ public class TesteListaDuplamenteLigada {
 
         ListaDuplamenteLigadaEx1 minhaLista = new ListaDuplamenteLigadaEx1();
 
-         //------------------Ex1--------------------//
+         //------------------Ex1---------------------//
         minhaLista.adicionar("Rodrigo");
         minhaLista.adicionar("Pedro");
         minhaLista.adicionar("Maria");
